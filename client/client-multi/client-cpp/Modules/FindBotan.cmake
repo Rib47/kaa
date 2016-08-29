@@ -13,15 +13,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# -*- mode: cmake; -*-
-# - Try to find libbotan include dirs and libraries
-# Usage of this module as follows:
-#   find_package(Botan)
-# This file defines:
-# * BOTAN_FOUND if protoc was found
-# * BOTAN_LIBRARY The lib to link to (currently only a static unix lib, not
-# portable)
-# * BOTAN_INCLUDE_DIR The include directories for libbotan.
 
 message("\nLooking for Botan C++ headers and libraries")
 
