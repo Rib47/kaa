@@ -13,6 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
 #ifndef KAA_CONFIGURATION_MANAGER_PRIVATE_H
 #define KAA_CONFIGURATION_MANAGER_PRIVATE_H
 
